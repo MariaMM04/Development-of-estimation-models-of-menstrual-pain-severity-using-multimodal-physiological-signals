@@ -39,13 +39,13 @@ All classification experiments are located in the `notebooks` folder.
 - `Complete 6 levels_V2.ipynb`: Six levels pain classification.
 - `Complete 3 levels_V2.ipynb`: Three levels pain classification.
 - Binary Classification: Two levels pain classification.
-  - `README.md`
   - `outer_splits_binary.pkl`: First dataset split (outter split) into five folds with train and test sets. Used to ensure identical train/test partitions across all evaluated classification schemes and models, allowing a fair comparison of results. 
   - `Complete binary_V2.ipynb`: Binary pain classification without balancing approach
   - `Complete binary_SMOTE_0.3_V2.ipynb`: First balancing approach with SMOTE at 0.3
   - `Complete binary_SMOTE_0.3_Undersampling_0.7_V2.ipynb`: Second balancing approach with SMOTE at 0.3 and undersampling at 0.7
   - `Complete binary_SMOTE_0.3_Undersampling_1.0_V2.ipynb`: Second balancing approach with SMOTE at 0.3 and undersampling at 1.0
   - `Other SMOTE configurations`: Previous approaches with different SMOTE ratios
+    - `README.md`
 
 #### Menstrual Dataset
 

@@ -1,4 +1,4 @@
-# Development-of-estimation-models-of-menstrual-pain-severity-using-multimodal-physiological-signals
+# Development-of-classification-models-of-menstrual-pain-severity-using-multimodal-physiological-signals
 Bachelor's Thesis focused on the classification of menstrual pain intensity using physiological and hormonal variables through statistical analysis and machine learning techniques.
 
 ## Repository structure
